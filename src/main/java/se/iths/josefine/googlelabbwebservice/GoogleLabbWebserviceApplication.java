@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GoogleLabbWebserviceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(GoogleLabbWebserviceApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(GoogleLabbWebserviceApplication.class, args);
+    }
 }
